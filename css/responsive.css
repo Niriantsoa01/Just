@@ -1,0 +1,148 @@
+@media (max-width: 768px) {
+    .nav-item {
+       font-size: 0.5rem; 
+    }
+
+    .search {
+        margin-top: 21%;
+    }
+
+    .bt {
+        width: 250px;
+    }
+
+    .user {
+        margin: 2% auto;
+    }
+
+    .ann {
+        display: block;
+        max-width: 80%;
+        margin-left: -90px;
+        margin-top: -50px;
+    }
+
+    .ann h2 {
+        font-size: 15px;
+        text-align: center;
+        font-weight: bold;
+    }
+    
+    .ann .bt {
+        margin: 0 50px;
+    }
+
+    .div1, .div2 {
+        width: 300px;
+    }
+
+    .div p {
+        font-size: 8px;
+        margin: 5px;
+    }
+
+
+    .angle1 {
+        position: absolute;
+        top: -80%;
+        left: 20%;
+    }
+
+    .content {
+        
+        margin-top: -80%;
+    }
+
+    .button {
+        width: 100%;
+        padding: 25px;
+    }
+
+    .button i{
+        font-size: 20px;
+    }
+
+    section .buttons {
+        max-width: 100%;
+        margin-top: 30% !important;
+    }
+
+    .carousel_section {
+        margin-top: 50% !important;
+    }
+
+    .buttons .button:nth-child(1) {
+        transform: translate(-300%, -90%) rotate(0deg);
+      }
+    .buttons .button:nth-child(2) {
+        transform: translate(-50%, -150%) rotate(0deg);
+      }
+    .buttons .button:nth-child(3) {
+        transform: translate(200%, -110%) rotate(0deg);
+      }
+    .buttons .button:nth-child(4) {
+        transform: translate(300%, 100%) rotate(0deg);
+      }
+    .buttons .button:nth-child(5) {
+        transform: translate(-400%, 100%) rotate(0deg);
+      }
+    .buttons .button:nth-child(6) {
+        transform: translate(-300%, 300%) rotate(0deg);
+      }
+    .buttons .button:nth-child(7) {
+        transform: translate(210%, 300%) rotate(0deg);
+      }
+    .buttons .button:nth-child(8) {
+        transform: translate(-50%, 350%) rotate(0deg);
+      }
+
+      .talent p {
+        font-size: 14px;
+        width: 450px;
+      }
+
+      .talent h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+      }
+
+      .talent .btn {
+        width: 100%;
+        cursor: pointer;
+        margin: auto;
+        transition: background-color 0.3s ease;
+      }
+
+      .carde .par {
+        position: absolute;
+        top: 0;
+        left: 100px;
+      }
+
+      .carde .sp {
+        position: absolute;
+        top: -35%;
+        left: 100px;
+      }
+
+      .carde .start {
+        position: absolute;
+        top: 35%;
+        left: 100px;
+      }
+
+      .carde i {
+        position: absolute;
+        top: 0%;
+        left: 90%;
+      }
+
+    footer {
+        width: 100%;
+    }
+    .footer-social {text-align: center;}
+	.footer-social a i {margin-right: 16px;margin-left: 0;}
+    .flex ul{display: block;}
+    .flex ul {margin-left: -10px; margin-right: 16px;}
+
+}
