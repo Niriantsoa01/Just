@@ -7,12 +7,19 @@
         margin-top: 21%;
     }
 
+    input[type="search"] {
+        position: absolute;
+        width: 82%;
+        left: 10%;
+    }
+
     .bt {
         width: 250px;
+        margin-left: 20%;
     }
 
     .user {
-        margin: 2% auto;
+        margin: 1% auto;
     }
 
     .ann {
